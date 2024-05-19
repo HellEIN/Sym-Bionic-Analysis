@@ -1,5 +1,5 @@
 # Sym-Bionic-Analysis
-This is my journey to learn data analysis from the ground zero. This is created for learning and practicing purposes. 
+This is my journey to learn data analysis from ground zero. This is created for learning and practicing purposes. 
 
 hello, hello if you are here reading this you should know that you are one of the persons that I trust by showing you my horrible mistakes while learning data analysis
 I want to thank you for your effort and for your advise
